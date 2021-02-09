@@ -75,5 +75,10 @@ h1 {
 }
 
 img {
-  height: 400px;
+  height: 350px;
+}
+
+title{
+  height: 350px;
+  width: 100px;
 }
